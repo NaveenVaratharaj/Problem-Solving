@@ -9,6 +9,6 @@ int fib(int n)
 
 int main()
 {
-    cout<<fib(5);
+    cout<<fib(10);
     return 0;
 }
